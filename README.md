@@ -1,3 +1,6 @@
+🌫️ Exercício de Fixação – Índice de Qualidade do Ar (IQA)
+📌 Contexto
+
 Este projeto foi desenvolvido como exercício de fixação com foco em Separação de Responsabilidades, aplicado em Java.
 
 A proposta foi criar um programa capaz de:
@@ -14,7 +17,7 @@ O exercício simula uma necessidade real da Secretaria de Meio Ambiente: conscie
 
 Aplicar o princípio de Separação de Responsabilidades, garantindo que cada parte do sistema tenha uma única função bem definida.
 
-Ou seja:
+🔎 Organização do Código
 
 Uma parte do código é responsável pela entrada de dados
 
@@ -24,17 +27,17 @@ Outra pela regra dos efeitos na saúde
 
 Outra pela exibição das informações
 
-Essa abordagem melhora:
+🚀 Benefícios dessa abordagem
 
-Legibilidade
+✔️ Legibilidade
 
-Organização
+✔️ Organização
 
-Manutenção
+✔️ Manutenção
 
-Testabilidade
+✔️ Testabilidade
 
-Escalabilidade
+✔️ Escalabilidade
 
 🧠 Regras de Negócio Implementadas
 📊 Classificação do IQA
@@ -59,7 +62,7 @@ Durante o desenvolvimento foram utilizados:
 
 ✅ Java
 
-✅ Estruturas condicionais (if/else)
+✅ Estruturas condicionais (if / else)
 
 ✅ Operadores relacionais
 
