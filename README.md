@@ -39,23 +39,6 @@ Outra pela exibição das informações
 
 ✔️ Escalabilidade
 
-🧠 Regras de Negócio Implementadas
-📊 Classificação do IQA
-Índice	Classificação
-0 – 50	Boa
-51 – 100	Regular
-101 – 199	Inadequada
-200 – 299	Má
-300 – 399	Péssima
-≥ 400	Crítica
-
-🏥 Efeitos na Saúde
-Índice	Efeitos
-0 – 100	Ausência de sintomas
-101 – 199	Leve agravamento em pessoas suscetíveis
-200 – 299	Decréscimo da resistência física
-300 – 399	Aparecimento prematuro de doenças
-≥ 400	Morte prematura de pessoas doentes e idosas
 🛠️ Conceitos Aplicados
 
 Durante o desenvolvimento foram utilizados:
